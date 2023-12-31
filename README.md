@@ -1,4 +1,5 @@
-# 💻 Tech Stack:  https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png
+# 💻 Tech Stack:  
+https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
 ![image](https://github.com/nitinkc1/SQL_Big_basket_project/assets/130339748/6823a2d7-9f77-4a59-90a7-e2dc451ea30e)
