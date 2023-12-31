@@ -1,5 +1,5 @@
 # 💻 Tech Stack:
- ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+           ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
 
 # BigBasket - Online Grocery Delivery Service
