@@ -34,28 +34,6 @@ Welcome to BigBasket! This project aims to recreate the online grocery delivery 
 
 ## Getting Started
 To get started with the BigBasket project, follow these steps:
-# BigBasket - Online Grocery Delivery Service
-
-## Introduction
-
-Welcome to BigBasket! This MySQL-based project aims to replicate the seamless online grocery delivery service offered by BigBasket, a leading e-commerce platform for grocery shopping. Users can explore an extensive catalog of grocery items, enjoy personalized features through user registration, and benefit from discounts and special offers, all from the comfort of their homes.
-
-## Features
-
-### 1. User Registration
-- Register and create an account for personalized shopping experiences and order tracking.
-
-### 2. Product Catalog
-- Explore a diverse range of grocery items conveniently categorized for easy navigation.
-
-### 3. Product Search
-- Quickly find specific products using the search functionality.
-
-### 4. Rating and Reviews
-- Provide valuable feedback by rating and reviewing products.
-
-### 5. Discounts and Offers
-- Stay informed about available discounts and special offers on selected products.
 
 ## SQL Queries Highlights
 
